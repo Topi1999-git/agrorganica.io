@@ -1,0 +1,16 @@
+<svg width="680" height="680" viewBox="0 0 680 680" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#E6B422" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <!-- top face -->
+    <path d="M180 240 L340 155 L500 240 L340 325 Z"/>
+    <!-- left face -->
+    <path d="M180 240 L180 440 L340 525 L340 325 Z"/>
+    <!-- right face -->
+    <path d="M500 240 L500 440 L340 525 L340 325 Z"/>
+    <!-- extra loose sketchy outline strokes for hand-drawn feel -->
+    <path d="M182 236 L342 150" stroke-width="6" opacity="0.5"/>
+    <path d="M338 320 L338 210" stroke-width="6" opacity="0.5"/>
+    <!-- inner circle detail on top face -->
+    <circle cx="340" cy="240" r="38"/>
+    <path d="M340 202 Q365 220 340 240 Q315 260 340 278" stroke-width="10"/>
+  </g>
+</svg>
